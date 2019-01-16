@@ -1,0 +1,4 @@
+Change Pin Designator/Name:  Old Designator=M-16 Old Name=PD2 (INT0) New Designator =PA4 (ADC4) New Name=36
+Change Pin Designator/Name:  Old Designator=M-17 Old Name=PD3 (INT1) New Designator =PA3 (ADC3) New Name=37
+Change Pin Designator/Name:  Old Designator=M-36 Old Name=PA4 (ADC4) New Designator =PD2 (INT0) New Name=16
+Change Pin Designator/Name:  Old Designator=M-37 Old Name=PA3 (ADC3) New Designator =PD3 (INT1) New Name=17
